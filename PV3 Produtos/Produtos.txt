@@ -1,0 +1,24 @@
+--- Produto ---
+Macarrao
+20.0
+Comida
+--- Produto ---
+Arroz
+15.6
+Comida
+--- Produto ---
+Sabao em po
+24.0
+Higiene
+--- Produto ---
+Vaso de porcelana 
+50.7
+Decoração
+--- Produto ---
+Mesa de centro
+47.9
+Decoração
+--- Produto ---
+IKE
+2.0
+KSK
